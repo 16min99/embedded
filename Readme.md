@@ -3,7 +3,7 @@
 실제 MCU의 data sheet를 읽고 uart , i2c , pwd 등 임베디드시스템에 필요한 통신을 직접 구현하였습니다.  
 
 ## DEMO
-![DEMO](/img/demo.mp4)
+![BOM](https://user-images.githubusercontent.com/65473604/114403490-cd576080-9bdf-11eb-80ec-da224e3dfaf7.PNG)
 
 ## BOM
 ![BOM_img](/img/BOM.png)
